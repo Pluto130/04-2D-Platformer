@@ -1,7 +1,5 @@
-# Exercise-04d-Save-and-Load
-Exercise for MSCH-C220, 14 October 2021
-
-The fourth exercise for the 2D Platformer project, exploring save and load (in two projects).
+# 04-2D-Platformer
+Late work for Project 4 for MSCH-C220, originally due 10/23/21. Changed platform icons and added background music.
 
 ## Implementation
 Built using Godot 3.3.3
